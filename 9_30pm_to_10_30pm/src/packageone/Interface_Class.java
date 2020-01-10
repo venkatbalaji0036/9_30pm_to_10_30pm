@@ -7,13 +7,13 @@ public class Interface_Class implements InterfaceOne{
 		// TODO Auto-generated method stub
 		
 	}
-
+//adding another commet
 	@Override
 	public void GT_Host_Meeting() {
 		// TODO Auto-generated method stub
 		
 	}
-
+//Comments added
 	@Override
 	public void GT_Logout() {
 		// TODO Auto-generated method stub

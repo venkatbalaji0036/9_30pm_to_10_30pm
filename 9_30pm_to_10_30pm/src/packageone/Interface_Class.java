@@ -5,7 +5,7 @@ public class Interface_Class implements InterfaceOne{
 	@Override
 	public void GT_Login() {
 		// TODO Auto-generated method stub
-		
+		//comment
 	}
 //adding another commet
 	@Override
